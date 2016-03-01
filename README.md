@@ -1,5 +1,5 @@
 <html>
-<CENTER><h1>Active Directory Integration Script</h1></CENTER>
+<h1 ALIGN=center>Active Directory Integration Script</h1>
 <CENTER><h2>josjos</h2></CENTER>
 josjos Script de integración de sistemas Ubuntu/Debian en dominios Active Directory
 
