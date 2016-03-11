@@ -42,6 +42,6 @@ Para instalar:
 </ul>
 
 
-<p style="text-align:right; padding-right:70px;" ><a href="http://www.gnu.org/licenses/gpl-3.0.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png"/></a></p>
+<p style="padding-right:70px;" align=right ><a href="http://www.gnu.org/licenses/gpl-3.0.html"><img src="http://www.gnu.org/graphics/gplv3-88x31.png"/></a></p>
 
 </html>
