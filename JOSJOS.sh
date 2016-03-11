@@ -148,7 +148,7 @@ echo "╚█████╔╝╚██████╔╝███████�
 echo " ╚════╝  ╚═════╝ ╚══════╝ ╚════╝  ╚═════╝ ╚══════╝"
 echo
 echo "Bienvenido a JOSJOS, el asistente de integracion de sistemas Linux en Active Directory"
-echo "█ █ █ Creado por Nicolas Seiz, Dario Garcia y Marcos Sobrino █ █ █"
+echo "█ █ █ Creado por Nicolas Seiz, Dario Garcia y Marcos Sobrino(oblop) █ █ █"
 until [ "$BUCLEE" = 1 ]
     do
         echo
